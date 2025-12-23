@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "hazama",
+  "base_artist": "4na",
+  "createdAt": "2025-12-23T06:30:54.418440Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Natsu Hazama",
+      "artist": "Akina Nakamori",
+      "has_synced": true,
+      "path": "select/01_Natsu_Hazama_Akina_Nakamori.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Natsu Hazama",
+      "artist": "Akina Nakamori (中森明菜)",
+      "has_synced": true,
+      "path": "select/02_Natsu_Hazama_Akina_Nakamori_(中森明菜).lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Pokok (feat. Hazama)",
+      "artist": "Meet Uncle Hussain, Hazama",
+      "has_synced": false,
+      "path": "select/03_Pokok_(feat._Hazama)_Meet_Uncle_Hussain,_Hazama.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Pokok (Single) [feat. Hazama]",
+      "artist": "Meet Uncle Hussain",
+      "has_synced": false,
+      "path": "select/04_Pokok_(Single)_[feat._Hazama]_Meet_Uncle_Hussain.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Pokok (feat. Hazama)",
+      "artist": "Meet Uncle Hussain",
+      "has_synced": false,
+      "path": "select/05_Pokok_(feat._Hazama)_Meet_Uncle_Hussain.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "WHAT ROBOTS NEED - hazama RUNWAY ver.",
+      "artist": "AWAAWA",
+      "has_synced": true,
+      "path": "select/06_WHAT_ROBOTS_NEED_-_hazama_RUNWAY_ver._AWAAWA.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "hazama (新東京 Rearrange)",
+      "artist": "4na",
+      "has_synced": true,
+      "path": "select/07_hazama_(新東京_Rearrange)_4na.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Lari (feat. Hazama)",
+      "artist": "Sleeq",
+      "has_synced": true,
+      "path": "select/08_Lari_(feat._Hazama)_Sleeq.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "hazama",
+      "artist": "4na",
+      "has_synced": true,
+      "path": "select/09_hazama_4na.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Penghibur (feat. Hazama)",
+      "artist": "Altimet",
+      "has_synced": true,
+      "path": "select/10_Penghibur_(feat._Hazama)_Altimet.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "hazama",
+      "artist": "4na",
+      "has_synced": true,
+      "path": "select/11_hazama_4na.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Pokok (Ft Hazama)",
+      "artist": "Meet Uncle Hussain",
+      "has_synced": true,
+      "path": "select/12_Pokok_(Ft_Hazama)_Meet_Uncle_Hussain.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Pokok (Single Version) [feat. Hazama]",
+      "artist": "Meet Uncle Hussain",
+      "has_synced": false,
+      "path": "select/13_Pokok_(Single_Version)_[feat._Hazama]_Meet_Uncle_Hussain.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "BuruTerBuru (feat. Hazama, Boy Clifford)",
+      "artist": "Meet Uncle Hussain, Hazama, Boy Clifford",
+      "has_synced": true,
+      "path": "select/14_BuruTerBuru_(feat._Hazama,_Boy_Clifford)_Meet_Uncle_Hussain,_Hazama,_Boy_Clifford.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "What Robots Need (hazama RUNWAY ver.) [Explicit]",
+      "artist": "AWAAWA",
+      "has_synced": true,
+      "path": "select/15_What_Robots_Need_(hazama_RUNWAY_ver.)_[Explicit]_AWAAWA.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "hazama",
+      "artist": "4na",
+      "has_synced": false,
+      "path": "select/pl_01_hazama_4na.txt"
+    }
+  ]
+}
